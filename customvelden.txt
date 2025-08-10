@@ -1,0 +1,39 @@
+ 
+label
+Optioneel of required: Optioneel
+Default value: "label" 
+Tooltip / helptekst: 
+constraints: max 30 tekens 
+
+Titel
+Optioneel of required: required
+Default value: "Mandatory title about the call-to-action here"
+Tooltip: Titel
+Constraints: max 100 tekens
+
+Body tekst 
+Optioneel of required: Optioneel
+Default value: "Optional body text"
+Tooltip: Optionele extra tekst onder de titel
+Constraints: max 300 tekens
+
+Button tekst
+Optioneel of required: Optioneel
+Default value: "Optional button"
+Tooltip: Tekst die op de call-to-action knop verschijnt
+Constraints: max 30 tekens
+
+Button URL
+Optioneel of required: Optioneel
+Default value: ""
+Tooltip: Link waar de knop naartoe verwijst
+Constraints: Geldige URL
+
+Button openen in nieuw tablad 
+Optioneel of required: Optioneel
+Default value: false (uit)
+Tooltip: Open de link in een nieuw tabblad
+Constraints: -
+
+
+
